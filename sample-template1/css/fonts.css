@@ -1,0 +1,17 @@
+@font-face{
+	font-family: Kanit;
+	src: url("../fonts/Kanit/Kanit-Regular.ttf");
+}
+
+@font-face{
+	font-family: Nunito;
+	src: url("../fonts/Nunito/Nunito-Light.ttf");
+}
+@font-face{
+	font-family: Poppins;
+	src: url("../fonts/Poppins/Poppins-Thin.ttf");
+}
+@font-face{
+	font-family: Poppins;
+	src: url("../fonts/Poppins/Poppins-SemiBold.ttf");
+}
